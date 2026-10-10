@@ -1,93 +1,15 @@
-# Super Car — Seminovos Premium
+📌##SuperCar - O seu carro esta aqui Ltda
 
-Site institucional e catálogo dinâmico da loja **Super Car**.
+🌐 ## Site Link do projeto online: https://supercar-speed.vercel.app/
 
-## Quick start
+📂 ## Repositório: https://github.com//JorgeRamalho/SuperCar
 
-Abra `index.html` no navegador ou use um servidor local:
+💻 ## Tecnologias
 
-```bash
-python -m http.server 8080
-```
+HTML CSS JavaScript React TypeScript Node.js 📲 ## Funcionalidades
 
-Acesse: [http://localhost:8080](http://localhost:8080)
+Fotos e Imagens Vídeos Layout Estilo do Site
 
-## Pasta raiz (enxuta)
+📠 ## Como executar git clone ... npm install npm run dev
 
-Somente o essencial permanece na raiz:
-
-| Arquivo | Função |
-|---------|--------|
-| `index.html` | Entrada da aplicação |
-| `.gitignore` | Regras de versionamento |
-| `README.md` | Este guia |
-
-Demais artefatos ficam em pastas dedicadas — ver [docs/estrutura.md](docs/estrutura.md).
-
-## Estrutura
-
-```
-Projeto-SuperCar/
-├── index.html
-├── .gitignore
-├── README.md
-├── css/
-│   ├── variables.css      # tokens (cores, tipografia, marquee)
-│   └── styles.css         # layout e componentes
-├── js/
-│   ├── site.js            # NAP, WhatsApp, e-mail (trocar em produção)
-│   ├── data.js            # veículos e imagens do estoque
-│   └── app.js             # catálogo, filtros, modal, marquee
-├── assets/
-│   ├── images/
-│   │   ├── hero/          # destaque do primeiro viewport
-│   │   └── catalog/       # fotos do estoque
-│   └── logos/             # logos locais (ex.: Lexus)
-└── docs/                  # documentação profissional
-    ├── estrutura.md
-    ├── arquitetura.md
-    ├── assets.md
-    └── convencoes.md
-```
-
-## Documentação
-
-| Documento | Conteúdo |
-|-----------|----------|
-| [docs/estrutura.md](docs/estrutura.md) | Mapa de pastas e arquivos |
-| [docs/arquitetura.md](docs/arquitetura.md) | Camadas, fluxos e dependências |
-| [docs/assets.md](docs/assets.md) | Inventário de mídia e referências |
-| [docs/convencoes.md](docs/convencoes.md) | Nomenclatura e regras de organização |
-| [docs/auditoria.md](docs/auditoria.md) | Auditoria SEO/UX/UI (Playwright) e backlog |
-| [docs/acoes-imediatas.md](docs/acoes-imediatas.md) | Checklist P0/P1/P2 de execução |
-| [docs/fases.md](docs/fases.md) | Roteiro de fases do projeto |
-| [docs/conteudo.md](docs/conteudo.md) | Tom de voz e conteúdo |
-| [docs/seo.md](docs/seo.md) | SEO on-page e local |
-
-## Funcionalidades
-
-- Hero com destaque (Lamborghini Huracán) e estatísticas
-- Catálogo com busca, filtro por marca/categoria e faixa de preço
-- Modal com detalhes do veículo
-- Faixa animada de marcas (logos + links oficiais)
-- Menu responsivo e formulário de contato
-- Fallback de imagens e suporte a `prefers-reduced-motion`
-
-## Design
-
-- **Paleta:** fundo profundo, ouro luxo e ciano dinâmico
-- **Tipografia:** [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed) (títulos) + [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) (corpo)
-
-## Stack
-
-HTML5 · CSS3 (custom properties) · JavaScript vanilla — sem bundler.
-
-## Produção
-
-1. Edite `js/site.js` (telefone, WhatsApp, endereço, e-mail LGPD)
-2. Defina `demoNotice: false`
-3. Push em `main` — GitHub Pages + workflow CI (`.github/workflows/ci.yml`)
-
-## Fases
-
-Ver [docs/fases.md](docs/fases.md) — fases 0–6 concluídas no código; falta só NAP real.
+💿 ## Autor 📄Seu nome: Jorge R. Barbosa 💼 LinkedIn: https://www.linkedin.com/in/jorge-r-barbosa-aabb0417b/ 👾 GitHub: https://github.com/JorgeRamalho ☎️ Contato: 41 99143-4153
